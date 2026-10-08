@@ -82,25 +82,56 @@ Acredito que a tecnologia pode transformar negócios, processos e pessoas.
 
 ## `03. featured_projects{}`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/MicheleUai/Software-Gestao-de-producao">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleUai&repo=Software-Gestao-de-producao&bg_color=0D0D12&title_color=C8A2F0&text_color=FFFFFF&icon_color=BA93E8&border_color=77539F" alt="Software de Gestão de Produção"/>
-</a>
+### 🏭 [Gestão de Produção](https://github.com/MicheleUai/Software-Gestao-de-producao)
 
-<a href="https://github.com/MicheleUai/una-psc-alg-calculadora-java-poo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleUai&repo=una-psc-alg-calculadora-java-poo&bg_color=0D0D12&title_color=C8A2F0&text_color=FFFFFF&icon_color=BA93E8&border_color=77539F" alt="Calculadora Java POO"/>
-</a>
+Sistema de gestão de produção, desenvolvido como projeto de software.
 
-<a href="https://github.com/MicheleUai/gqs-calculadora-saude-py">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleUai&repo=gqs-calculadora-saude-py&bg_color=0D0D12&title_color=C8A2F0&text_color=FFFFFF&icon_color=BA93E8&border_color=77539F" alt="Calculadora de Saúde Python"/>
-</a>
+![Projeto](https://img.shields.io/badge/PROJETO-GEST%C3%83O-BA93E8?style=flat-square&labelColor=111019)
 
-<a href="https://github.com/MicheleUai/agente-inteligencia-educacao">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleUai&repo=agente-inteligencia-educacao&bg_color=0D0D12&title_color=C8A2F0&text_color=FFFFFF&icon_color=BA93E8&border_color=77539F" alt="Agente Inteligência Educação"/>
-</a>
+[**Explorar repositório →**](https://github.com/MicheleUai/Software-Gestao-de-producao)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### ☕ [Calculadora em Java](https://github.com/MicheleUai/una-psc-alg-calculadora-java-poo)
+
+Exercício de programação utilizando conceitos de orientação a objetos.
+
+![Linguagem](https://img.shields.io/badge/LINGUAGEM-JAVA-C8A2F0?style=flat-square&labelColor=111019)
+
+[**Explorar repositório →**](https://github.com/MicheleUai/una-psc-alg-calculadora-java-poo)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧮 [Calculadora de Saúde](https://github.com/MicheleUai/gqs-calculadora-saude-py)
+
+Projeto de aprendizagem com cálculos aplicados à saúde em Python.
+
+![Linguagem](https://img.shields.io/badge/LINGUAGEM-PYTHON-C8A2F0?style=flat-square&labelColor=111019)
+
+[**Explorar repositório →**](https://github.com/MicheleUai/gqs-calculadora-saude-py)
+
+</td>
+<td valign="top">
+
+### 🤖 [Inteligência e Educação](https://github.com/MicheleUai/agente-inteligencia-educacao)
+
+Exploração de aplicações de inteligência artificial no contexto educacional.
+
+![Área](https://img.shields.io/badge/%C3%81REA-IA%20%2B%20EDUCA%C3%87%C3%83O-BA93E8?style=flat-square&labelColor=111019)
+
+[**Explorar repositório →**](https://github.com/MicheleUai/agente-inteligencia-educacao)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -128,7 +159,7 @@ Status: evolução contínua...
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MicheleUai&bg_color=0D0D12&color=C8A2F0&line=BA93E8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Gráfico de contribuições"/>
+<a href="https://github.com/MicheleUai?tab=overview"><img src="https://ghchart.rshah.org/BA93E8/MicheleUai" width="100%" alt="Histórico de contribuições no GitHub"/></a>
 
 </div>
 
