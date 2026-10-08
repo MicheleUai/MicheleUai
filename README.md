@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:7C3AED&height=180&section=header&text=MICHELE%20CARVALHO&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=CODIGO+MY;Ciencia+da+Computacao;Design+%2B+Tecnologia+%2B+Inovacao;Inteligencia+Artificial+%26+Programacao"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=CODIGO+MIH;Ciencia+da+Computacao;Design+%2B+Tecnologia+%2B+Inovacao;Inteligencia+Artificial+%26+Programacao"/>
 
 ### 👩‍💻 Design • Tecnologia • Inovação
 
@@ -23,6 +23,9 @@ Tenho mais de 20 anos de experiência na área criativa e estou ampliando minha 
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,mysql,git,github,vscode,html,css" />
+  <br>
+<img src="./Imagem do ChatGPT 8 de out. de 2026, 00_55_22.png" width="220"/>
+<br><br>
 </div>
 
 ## 📂 Projetos
@@ -40,7 +43,7 @@ Tenho mais de 20 anos de experiência na área criativa e estou ampliando minha 
 
 ## 🌐 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-Codigo_My-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codigomih/)
+[![Instagram](https://img.shields.io/badge/Instagram-codigomih-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codigomih/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-MicheleUai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MicheleUai)
 
