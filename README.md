@@ -1,23 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=08090D&text=MicheleUai%20%2F%20README.md&fontColor=C8A2F0&fontSize=19&fontAlignY=50" width="100%" alt="Terminal Código Mih"/>
-
-<br>
-
-### `{ < | > } . _`
-
-# C ó d i g o M i h _
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=800&color=C8A2F0&center=true&vCenter=true&width=750&lines=MICHELE+CARVALHO;HELLO%2C+WORLD!;WELCOME+TO+MY+GITHUB;SYSTEM+INITIALIZED..." alt="Apresentação animada"/>
-
-<br>
-
-**`> estudante de Ciência da Computação_`**
-
-**`> design + tecnologia + inovação_`**
-
-**`> inteligência artificial + programação_`**
+<img src="./banner_neon_de_c%25C3%25B3digo_e_impacto.png" width="100%" alt="Código Mih — Michele Carvalho: cabeçalho estilo terminal"/>
 
 <br>
 
